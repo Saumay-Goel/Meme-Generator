@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    box-sizing: border-box;
+    padding: 1em;
+    align-items: center;
+    background-color: #21343A;
+    width: 100%;
+    height: 11vh;
+    font-size: 3rem;
+    color: aliceblue;
+}
+
+.navbar > img{
+    width: 5.85%;
+}
+
+.navbar > p{
+    padding: .6em;
+}
